@@ -1,4 +1,4 @@
-# Curso Java Exercícios Básicos Parte2
+# Curso Java Exercícios Básicos Parte3
 ## Exercícios básicos feitos em Java para o Curso Java do Prof. Nélio Alves
 
 Este repositório contém uma série de exercícios básicos de Java que eu estou reproduzindo de um curso que estou fazendo. Esses exercícios são projetados para ajudar iniciantes a aprender os fundamentos da programação em Java.
